@@ -4,10 +4,9 @@ This software contains third party software.
 ========= Note =========
 ------------------------
 This notice has been translated using machine translation and may contain inaccuracies.
-For precise information, please refer to the Japanese version (https://github.com/saku-shirakura/ThirdPartyNotice-template release ThirdPartyNotice.ja.txt version 1.0).
+For precise information, please refer to the Japanese version (https://github.com/saku-shirakura/ThirdPartyNotice-template release ThirdPartyNotice.ja.txt version 1.1).
 ------------------------
 If you find any part of this notice missing the license notice, please report it to Github Issues as shown below.
-Label: "Third party notice problem"
 Title: "The license notice for 'Package Name' is missing."
 Description: Additional information, such as where it is being used. (optional)
 ------------------------
