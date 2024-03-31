@@ -52,8 +52,3 @@ For precise information, please refer to the Japanese version (https://github.co
 ------------------------
 </details>
 テキストを変更された場合は、この部分を削除するか、原文へのリンクを自身が変更した原文へのリンクにしてください。
-
-## 寄稿
-このドキュメントに改善点がある場合や、翻訳をしてくださるかたがいらっしゃいましたら、いつでも歓迎いたします。
-気軽にプルリクエストを送っていただければと思います。 </br>
-by saku shirakura
