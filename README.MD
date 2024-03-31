@@ -1,4 +1,4 @@
-日本語が話せる方は次の原文を読みに行ってください！ [日本語版(原文)](README.ja.MD)
+日本語が読める方は次の原文を読みに行ってください！ [日本語版(原文)](README.ja.MD)
 ## License
 This document is licensed under CC0. Therefore, the copyright has been waived.
 
@@ -57,8 +57,3 @@ For precise information, please refer to the Japanese version (https://github.co
 ------------------------ 
 </details> 
 If you modify the textual contents, please delete this part or replace the link to the original text with a link to the original text that you modified.
-
-## Contributions
-If there are improvements to this document or if you know someone who would translate, I always welcome them.
-Feel free to send a pull request. </br>
-by saku shirakura
